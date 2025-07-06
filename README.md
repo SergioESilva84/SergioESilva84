@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario"><img alt="GitHub followers" src="https://img.shields.io/github/followers/seu-usuario?style=social"></a>
-  <a href="https://www.linkedin.com/in/seu-usuario/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="[https://github.com/SergioESilva84](https://github.com/SergioESilva84)"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SergioESilva84?style=social"></a>
+  <a href="https://www.linkedin.com/in/sérgio-eleotério-da-silva/"><img alt="LinkedIn" src="www.linkedin.com/in/sérgio-eleotério-da-silva-46b091240"></a>
   <img alt="Dotnet" src="https://img.shields.io/badge/.NET-6/7/8-purple?style=flat&logo=dotnet">
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-Developer-blue?style=flat&logo=csharp">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-Expert-black?style=flat&logo=markdown">
