@@ -1,90 +1,95 @@
-## Hi , isso é só um esboço... escreverei um README posteriormente! até lá 👋
+<!-- README.md personalizado para destaque no GitHub -->
 
-<!-- Cabeçalhos -->
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+<h1 align="center">👋 Olá, eu sou o Sergio Eleotério</h1>
 
-*italico* ou _italico_
+<p align="center">
+  💻 Desenvolvedor Back-end C# | 🎯 Curioso por Sistemas | ✍️ Markdown Lover
+</p>
 
-***Negrito*** ou __negrito__
+<p align="center">
+  <a href="https://github.com/seu-usuario"><img alt="GitHub followers" src="https://img.shields.io/github/followers/seu-usuario?style=social"></a>
+  <a href="https://www.linkedin.com/in/seu-usuario/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <img alt="Dotnet" src="https://img.shields.io/badge/.NET-6/7/8-purple?style=flat&logo=dotnet">
+  <img alt="CSharp" src="https://img.shields.io/badge/C%23-Developer-blue?style=flat&logo=csharp">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-Expert-black?style=flat&logo=markdown">
+</p>
 
-_Negrito e Italico_
+---
 
-- Lista 1
-- Lista 2
-    - Sublista
+## ✨ Sobre mim
 
-1. Lista 1
-2. Lista 2
-    1. Sublista
+Sou um **desenvolvedor back-end com foco em C# e .NET**, com fome constante de entender o que está por trás de cada sistema. Sempre me pergunto:  
+**"Como isso funciona por trás do código?"**
 
-[Texto da Imagem](https://www.maladeaventuras.com/wp-content/uploads/2020/05/melhores-praias-da-bahia-taipu-de-fora.jpg)
+Essa curiosidade é o que me motiva a:
 
+- Refatorar com propósito
+- Escrever testes que realmente testam
+- Criar APIs resilientes
+- E sim... documentar tudo em **Markdown limpo e organizado** ✍️
 
-![alt text](image.png)
+> _"Boas ideias precisam de bons códigos. Bons códigos precisam de boas documentações."_ 💡📘
 
+---
 
-`system.out.println()`
+## 🧠 Stack de Tecnologia
 
-> Citações
+| 💻 Back-end  | ⚙️ Arquitetura | 📦 Outros |
+|-------------|----------------|-----------|
+| C# / .NET 6/7/8 | DDD, SOLID, Clean Arch | Git & GitHub |
+| SQL Server, Dapper, EF Core | APIs RESTful, JWT, CQRS | RabbitMQ |
+| Testes com xUnit & Moq | Keycloak, Swagger, Serilog | Markdown, Excalidraw |
 
-| Cabeçalho 1 | Cabeçalho 2|
-|-------------|------------|
-| texto 1     | texto 2    |
-|||
+---
 
-- [X] Tarefa 1
-- [X] Tarefa 2
+## 📄 O poder do Markdown `.md`
 
-## Seja Bem Vindo
+Markdown não é só "formatação simples".
 
-<center><h2>Seja Bem Vindo</2></center>
+Eu uso arquivos `.md` para:
 
-![Gif gatinho](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif)
+✅ Criar **documentações técnicas profissionais**  
+✅ Manter **READMEs que contam histórias**  
+✅ Documentar **rotas de APIs** com exemplos reais  
+✅ Mapear **arquitetura de projetos com diagramas**  
+✅ Gerar confiança técnica mesmo fora do código  
 
-👨
-💭
+> Quer entender meu projeto? Leia o README.md.  
+> Quer contribuir? Leia o CONTRIBUTING.md.  
+> Quer entender o sistema? Leia a documentação em Markdown.  
 
-----------
+---
 
-## Minhas Tecnologias
+## 🚧 Projetos em Destaque
 
+| 🚀 Projeto | 💬 Descrição | 🧰 Tecnologias |
+|-----------|--------------|----------------|
+| **API Relatórios Financeiros** | API robusta com resumos e detalhamentos de movimentações financeiras. | .NET 8, Dapper, SQL Server, Keycloak |
+| **POC RabbitMQ** | Prova de conceito com mensagens assíncronas e filas. | RabbitMQ, Worker Service, .NET |
+| **Templates Markdown** | Modelos de arquivos `.md` prontos para documentar qualquer projeto. | Markdown, GitHub Pages |
 
+---
 
-<div style="display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="100px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="100px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" width="100px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="100px">
-</div>
+## 📫 Contato
 
+- 💼 [LinkedIn](www.linkedin.com/in/sérgio-eleotério-da-silva-46b091240)
+- ✉️ Email: _sergioeleoteriodasilva@gmail.com_
+- 🌍 Em breve: blog com tutoriais e devlogs
 
-            
+---
 
+## ⭐ Vamos nos conectar?
 
---------
+Se você curte:
 
+- Código limpo
+- Arquitetura bem pensada
+- Documentação bem feita
 
+...então dá uma ⭐ neste perfil e bora construir algo incrível juntos!
 
+---
 
-
-
-<!--
-**SergioESilva84/SergioESilva84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Feito com ❤️, curiosidade infinita e uma pitada de café ☕
+</p>
